@@ -19,12 +19,4 @@
 
 <a href="https://github.com/TaylorxDv" align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=TaylorxDv.TaylorxDv" alt="Visitors count" /></a>
 
-<!--
-### Support Me
 
-<a href="https://www.buymeacoffee.com/TaylorxDv"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
--->
-
-##
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
